@@ -48,8 +48,6 @@ Universidad: Universidad Tecnológica de Xicotepec de Juárez.
 Área: Tecnologías de la Información y Comunicación.
 Carrera: Desarrollo de Software Multiplataforma.
 
-<hr>
-
 Materia: Desarrollo Móvil Integral.
 Docente: M.T.I. Marco Antonio Ramírez Hernández
 Alumna: Brenda Paola Flores Carcaño
@@ -57,5 +55,8 @@ Cuatrimestre: 10
 Grupo: "B"
 Periodo: septiembre - diciembre 2022
 
+<hr>
 
 [![LOGO-TIC.png](https://i.postimg.cc/Dzg124Nz/LOGO-TIC.png)](https://postimg.cc/NyKKDFBh)
+[![LOGO-ANIVERSARIO.png](https://i.postimg.cc/nLHQwcLf/LOGO-ANIVERSARIO.png)](https://postimg.cc/v4NB4y90)
+[![LOGO-UTXJ-2019.png](https://i.postimg.cc/pdqnNb9h/LOGO-UTXJ-2019.png)](https://postimg.cc/hJQGxY1c)
