@@ -13,6 +13,38 @@ Las herramientas que se usaron fueron las siguientes:
 
 [![flutter-VSC.png](https://i.postimg.cc/Jz6cCkH5/flutter-VSC.png)](https://postimg.cc/4Ychzn5Y)
 
+# Metodología
+
+- Se creó un proyecto de flutter en visual studio code.
+- Se creó una carpeta en la raíz, llamada assets.
+- Dentro de la carpeta assets se crearon dos carpetas más, llamadas images y fonts.
+- En la carpeta images se agregarán todas las imagenes que se utilicen en el proyecto.
+- En la carpeta fonts se agregarán todas las fuentes que se usen en el proyecto.
+- Dentro de la carpeta lib se creará otra carpeta llamada src en la cual se agregarán todos los archivos .dart que se agreguen, sin contar el main.dart.
+- Se creó un archivo en la carpeta src, llamado button.dart, aquí es donde se agregó el código para la creación de los botones flotantes y solo se llamó al archivo en el main.dart como un import 'package:nombreDelProyecto/src/button.dart
+- Las imagenes que se agregaron para el fondo del appBar y la foto del estudiante, se tendrán que agregar al archivo de pubspec.yaml, ahí es donde se deberá poder la ruta de todas las imagenes que se usen en el código, así como todas las fuentes.
+- Una vez que se desarrollo todo el proyecto, se creó el apk para instalarlo en los dispositivos móviles, con el comando de flutter buil apk.
+- El apk se podrá encontrar en la ruta que se muestra una vez que se haya terminado de ejecutar el comando mencionado en el paso anterior.
+
+# Resultados
+
+[![captura-Uno.jpg](https://i.postimg.cc/kgKsK42Q/captura-Uno.jpg)](https://postimg.cc/5X98Mfqy) 
+[![captura-Dos.jpg](https://i.postimg.cc/C59CfTYr/captura-Dos.jpg)](https://postimg.cc/LgBgrWJj)
+[![captura-Tres.jpg](https://i.postimg.cc/9XDnzcYp/captura-Tres.jpg)](https://postimg.cc/XX08zShG)
+
+
+# Datos del estudiante
+
+Universidad: Universidad Tecnológica de Xicotepec de Juárez.
+Área: Tecnologías de la Información y Comunicación.
+Carrera: Desarrollo de Software Multiplataforma.
+
+<hr>
+
+
+Materia: Desarrollo Móvil Integral
+
+
 
 A new Flutter project.
 
