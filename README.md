@@ -58,4 +58,7 @@ Periodo: septiembre - diciembre 2022
 <hr>
 
 [![LOGO-TIC.png](https://i.postimg.cc/Dzg124Nz/LOGO-TIC.png)](https://postimg.cc/NyKKDFBh)
-[![LOGO-UTXJ-2019.png](https://i.postimg.cc/pdqnNb9h/LOGO-UTXJ-2019.png)](https://postimg.cc/hJQGxY1c)
+
+
+<div style="text-align:center"><img src ="https://i.postimg.cc/pdqnNb9h/LOGO-UTXJ-2019.png)](https://postimg.cc/hJQGxY1c" /></div>
+
