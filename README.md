@@ -29,7 +29,9 @@ Las herramientas que se usaron fueron las siguientes:
 # Resultados
 
 [![captura-Uno.jpg](https://i.postimg.cc/kgKsK42Q/captura-Uno.jpg)](https://postimg.cc/5X98Mfqy) 
+
 [![captura-Dos.jpg](https://i.postimg.cc/C59CfTYr/captura-Dos.jpg)](https://postimg.cc/LgBgrWJj)
+
 [![captura-Tres.jpg](https://i.postimg.cc/9XDnzcYp/captura-Tres.jpg)](https://postimg.cc/XX08zShG)
 
 
