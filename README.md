@@ -57,6 +57,6 @@ Periodo: septiembre - diciembre 2022
 
 <hr>
 
-[![LOGO-TIC.png](https://i.postimg.cc/Dzg124Nz/LOGO-TIC.png)](https://postimg.cc/NyKKDFBh)______________________
+[![LOGO-TIC.png](https://i.postimg.cc/Dzg124Nz/LOGO-TIC.png)](https://postimg.cc/NyKKDFBh)____________________________________________________________
 [![LOGO-UTXJ-2019.png](https://i.postimg.cc/bwKqsmKC/LOGO-UTXJ-2019.png)](https://postimg.cc/rDCBHNyx)
 
